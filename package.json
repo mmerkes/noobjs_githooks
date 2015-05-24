@@ -1,0 +1,23 @@
+{
+  "name": "noobjs_githooks",
+  "version": "0.0.1",
+  "description": "Project created to learn how to use GitHub hooks",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "engines": {
+    "node": "~0.12.2"
+  },
+  "keywords": [
+    "github",
+    "git",
+    "noobjs",
+    "projects"
+  ],
+  "author": "Matt Merkes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
